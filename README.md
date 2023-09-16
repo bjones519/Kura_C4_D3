@@ -20,7 +20,7 @@
 
 ## Systems Diagram
 
-![Deployment3](Deployment3.jpg)
+![Deployment3](Deployment3.png)
 
 ## Bonus
 ![Bonus](NewURLShortner.png)
