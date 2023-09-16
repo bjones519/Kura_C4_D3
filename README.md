@@ -5,7 +5,7 @@
 
 ## Issues
 - When installing the aws eb cli as the jenkins user I was prompted that I needed to install python3-pip and I couldnt do it as the jenins user, I had to logout and install as the ubuntu user and then it worked
-- 
+ ![AWS](AWSError.jpg)
 
 ## Steps
 1. Install Jenkins onto an EC2 Server
