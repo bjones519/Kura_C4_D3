@@ -13,9 +13,16 @@
 2. Configure Jenkins and run the Build and Test stages
 3. Install AWS EB CLI to your EC2 Instance
 4. Add the Deploy Stage to the Jenkins file that will deploy the application to Elastic Beanstalk automatically
+    ![Jenkins](JenkinsPipeline.png)
+    ![URL](URLShortner.png)
+5. Add a GitHub Webhook so any changes you make in the repository to the code will trigger the Jenkins pipeline and redeploy Elastic Beanstalk
+    ![Webhook](Webhook.png)
 
 ## Systems Diagram
 
 ![Deployment3](Deployment3.jpg)
+
+## Bonus
+![Bonus](NewURLShortner.png)
 
 ## Optimization
