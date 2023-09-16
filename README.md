@@ -4,8 +4,8 @@
 - Deploy a web application in a fully automated Elastic Beanstalk Environment using Jenkins
 
 ## Issues
-- When installing the aws eb cli as the jenkins user I was prompted that I needed to install python3-pip and I couldnt do it as the jenins user, I had to logout and install as the ubuntu user and then it worked
-- Ran into the issue in the screenshot below, not something I have the IAM permissions to fix. Realized that I had to switch AWS environments and not use the D3 one
+- When installing the aws eb cli as the jenkins user I was prompted that I needed to install python3-pip and I couldn't do it as the jenins user, I had to logout and install as the ubuntu user since it has sudoer rights and the jenkins user does not
+- Ran into the issue in the screenshot below, not something I have the IAM permissions to fix. Realized that I had to switch AWS environments and not use the D3 one that was assigned
 ![AWS](AWSError.jpg)
 
 ## Steps
