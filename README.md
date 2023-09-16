@@ -8,8 +8,13 @@
 - 
 
 ## Steps
-1. 
+1. Install Jenkins onto an EC2 Server
+2. Configure Jenkins and run the Build and Test stages
+3. Install AWS EB CLI to your EC2 Instance
+4. Add the Deploy Stage to the Jenkins file that will deploy the application to Elastic Beanstalk
 
 ## Systems Diagram
+
+![Deployment3](Deployment3Diagram.jpeg)
 
 ## Optimization
