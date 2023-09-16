@@ -15,6 +15,6 @@
 
 ## Systems Diagram
 
-![Deployment3](Deployment3Diagram.jpeg)
+![Deployment3](Deployment3Diagram.jpg)
 
 ## Optimization
